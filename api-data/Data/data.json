@@ -1,4 +1,5 @@
 {
+  "cards": {
   "1": {
     "name": "fool",
     "cardshort": null,
@@ -1012,5 +1013,6 @@
     "productrec1": null,
     "productrec2": null,
     "productrec3": null
+    }
   }
 }
